@@ -9,7 +9,7 @@ if (is_post_request()) {
 
   <h2>Create Salamander</h2>
   <form action="<?php echo url_for('salamanders/create.php') ?>" method="post">
-    <label for="salName"></label>
+    <label for="salName">Name</label><br>
     <input type="text" name="salName">
     <input type="submit" value="Create">
   </form>
