@@ -15,4 +15,4 @@ include(SHARED_PATH . '/salamander-header.php');
   <input type="text" name="salName">
   <input type="submit" value="Edit">
 </form>
-<?php include(SHARED_PATH . '/salamander-footer.php'); ?>yyy
+<?php include(SHARED_PATH . '/salamander-footer.php'); ?>
